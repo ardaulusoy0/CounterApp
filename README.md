@@ -10,17 +10,17 @@ Bu proje, **INotifyPropertyChanged, ICommand ve RelayCommand** gibi temel MVVM p
 ✔ **GitHub'da Açık Kaynak Paylaşımı İçin Hazır**  
 
 ## 📂 Proje Yapısı
-CounterApp/
- ├── ViewModels/
- │      ├── BaseViewModel.cs  # Temel ViewModel yapısı
- │      ├── CounterViewModel.cs  # Sayaç işlemlerini yöneten ViewModel
- ├── Commands/
- │      ├── RelayCommand.cs  # ICommand kullanımı için özel komut sınıfı
- ├── MainWindow.xaml  # Kullanıcı arayüzü
- |      ├── MainWindow.xaml.cs  # UI ve ViewModel bağlantıları
- ├── App.xaml  # WPF uygulama başlangıç ayarları
- ├── CounterApp.csproj  # Proje dosyası
- ├── README.md  # Proje açıklaması ve kullanımı
+- **CounterApp/**
+  - 📂 **ViewModels/**
+    - 📜 `BaseViewModel.cs` → Temel ViewModel yapısı
+    - 📜 `CounterViewModel.cs` → Sayaç işlemlerini yöneten ViewModel
+  - 📂 **Commands/**
+    - 📜 `RelayCommand.cs` → ICommand kullanımı için özel komut sınıfı
+  - 📜 `MainWindow.xaml` → Kullanıcı arayüzü
+    - 📜 `MainWindow.xaml.cs` → UI ve ViewModel bağlantıları
+  - 📜 `App.xaml` → WPF uygulama başlangıç ayarları
+  - 📜 `CounterApp.sln` → Proje dosyası
+  - 📜 `README.md` → Proje açıklaması ve kullanımı
  
 
 ## 🛠 Kullanılan Teknolojiler
