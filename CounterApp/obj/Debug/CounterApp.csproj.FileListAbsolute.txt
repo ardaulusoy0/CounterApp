@@ -1,0 +1,15 @@
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\obj\Debug\CounterApp.csproj.AssemblyReference.cache
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\obj\Debug\MainWindow.g.cs
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\obj\Debug\App.g.cs
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\obj\Debug\CounterApp_MarkupCompile.cache
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\obj\Debug\CounterApp_MarkupCompile.lref
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\bin\Debug\CounterApp.exe.config
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\bin\Debug\CounterApp.exe
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\bin\Debug\CounterApp.pdb
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\obj\Debug\MainWindow.baml
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\obj\Debug\CounterApp.g.resources
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\obj\Debug\CounterApp.Properties.Resources.resources
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\obj\Debug\CounterApp.csproj.GenerateResource.cache
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\obj\Debug\CounterApp.csproj.CoreCompileInputs.cache
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\obj\Debug\CounterApp.exe
+C:\Users\Arda\Desktop\Gorsel_III\Week10_SayacOrnegi\CounterApp\CounterApp\obj\Debug\CounterApp.pdb

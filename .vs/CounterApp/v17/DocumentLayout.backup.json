@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arda\\Desktop\\Gorsel_III\\Week10_SayacOrnegi\\CounterApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9172-7626-4677-ACB4-9AAC7CCCDA26}|CounterApp\\CounterApp.csproj|c:\\users\\arda\\desktop\\gorsel_iii\\week10_sayacornegi\\counterapp\\counterapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A11A9172-7626-4677-ACB4-9AAC7CCCDA26}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9172-7626-4677-ACB4-9AAC7CCCDA26}|CounterApp\\CounterApp.csproj|c:\\users\\arda\\desktop\\gorsel_iii\\week10_sayacornegi\\counterapp\\counterapp\\viewmodels\\counterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A9172-7626-4677-ACB4-9AAC7CCCDA26}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\viewmodels\\counterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9172-7626-4677-ACB4-9AAC7CCCDA26}|CounterApp\\CounterApp.csproj|c:\\users\\arda\\desktop\\gorsel_iii\\week10_sayacornegi\\counterapp\\counterapp\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A9172-7626-4677-ACB4-9AAC7CCCDA26}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9172-7626-4677-ACB4-9AAC7CCCDA26}|CounterApp\\CounterApp.csproj|c:\\users\\arda\\desktop\\gorsel_iii\\week10_sayacornegi\\counterapp\\counterapp\\viewmodels\\base\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A9172-7626-4677-ACB4-9AAC7CCCDA26}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\viewmodels\\base\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11A9172-7626-4677-ACB4-9AAC7CCCDA26}|CounterApp\\CounterApp.csproj|c:\\users\\arda\\desktop\\gorsel_iii\\week10_sayacornegi\\counterapp\\counterapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11A9172-7626-4677-ACB4-9AAC7CCCDA26}|CounterApp\\CounterApp.csproj|solutionrelative:counterapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CounterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\Gorsel_III\\Week10_SayacOrnegi\\CounterApp\\CounterApp\\ViewModels\\CounterViewModel.cs",
+              "RelativeDocumentMoniker": "CounterApp\\ViewModels\\CounterViewModel.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\Gorsel_III\\Week10_SayacOrnegi\\CounterApp\\CounterApp\\ViewModels\\CounterViewModel.cs",
+              "RelativeToolTip": "CounterApp\\ViewModels\\CounterViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:15:53.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\Gorsel_III\\Week10_SayacOrnegi\\CounterApp\\CounterApp\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "CounterApp\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\Gorsel_III\\Week10_SayacOrnegi\\CounterApp\\CounterApp\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "CounterApp\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvx0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:07:46.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\Gorsel_III\\Week10_SayacOrnegi\\CounterApp\\CounterApp\\ViewModels\\Base\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "CounterApp\\ViewModels\\Base\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\Gorsel_III\\Week10_SayacOrnegi\\CounterApp\\CounterApp\\ViewModels\\Base\\BaseViewModel.cs",
+              "RelativeToolTip": "CounterApp\\ViewModels\\Base\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T20:06:41.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\Gorsel_III\\Week10_SayacOrnegi\\CounterApp\\CounterApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CounterApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\Gorsel_III\\Week10_SayacOrnegi\\CounterApp\\CounterApp\\MainWindow.xaml",
+              "RelativeToolTip": "CounterApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-26T19:49:28.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arda\\Desktop\\Gorsel_III\\Week10_SayacOrnegi\\CounterApp\\CounterApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CounterApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Arda\\Desktop\\Gorsel_III\\Week10_SayacOrnegi\\CounterApp\\CounterApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CounterApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:49:24.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
