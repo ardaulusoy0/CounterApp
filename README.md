@@ -35,11 +35,11 @@ Bu proje, **INotifyPropertyChanged, ICommand ve RelayCommand** gibi temel MVVM p
 git clone https://github.com/ardaulusoy0/CounterApp.git
 cd CounterApp
 ```
-2️⃣ Projeyi Visual Studio’da aç 
+2️⃣ Projeyi Visual Studio’da aç  
 3️⃣ Uygulamayı çalıştır ve sayaç değerini artırıp azalt! 🚀
 
-###🤝 Katkıda Bulunma
-Eğer projeye katkıda bulunmak istersen:
-Fork yaparak kendi versiyonunu oluşturabilirsin!
-Yeni özellikler ekleyip Pull Request gönderebilirsin!
-Hata veya önerileri Issues kısmına ekleyebilirsin!
+### 🤝 Katkıda Bulunma
+- **Eğer projeye katkıda bulunmak istersen:**
+- Fork yaparak kendi versiyonunu oluşturabilirsin!
+- Yeni özellikler ekleyip Pull Request gönderebilirsin!
+- Hata veya önerileri Issues kısmına ekleyebilirsin!
